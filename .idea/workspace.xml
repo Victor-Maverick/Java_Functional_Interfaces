@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddd5c5cc-8dd3-490e-9bcd-6dc01fb8687a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../NewProject/mailService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/taskManagementSystem/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/userService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fireDrillOne/src/maximumProduct/MaximumProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fireDrillOne/test/maximumProduct/MaximumProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/src/CalculateLcm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/src/EventHandling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/src/Form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/src/jSpractice.index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter14/DataValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter14/NewExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter14/Plus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/GeneratePassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/SentenceReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/files/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/files/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/files/ScannerText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/files/WebScraper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/files/newFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/files/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/AppendToExisting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/BufferedWriter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/CharacterBased.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/DataInputStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/FileOutputStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/JavaNioPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/OutputRedirect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/ReadFromTerminal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/Stream1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/StreamBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter16/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter16/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter16/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter16/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter16/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter16/PersonComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter16/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter16/TransactionComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/ConsumerSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/biConsumer/BiConsumerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/biFunction/BiFunctionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/biPredicate/BiPredicateSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/binaryOperator/BinaryOperatorSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/doubleToIntFunction/DoubleToIntFunctionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/function/FunctionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/longUnaryOperator/LongUnaryOperatorSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/predicate/PredicateSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/supplier/SupplierSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/unaryOperator/UnaryOperatorSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/streams/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/streams/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/json/serialization/JsonSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/json/serialization/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/json/serialization/Sex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/transactions/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/transactions/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/transactions/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/transactions/transactions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/test/java/chapter14/DataValidatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/test/java/chapter14/PlusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/test/java/chapter15/SentenceReverseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/test/java/json/serialization/JsonSerializerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Account/Account.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Account/out/test/Account/testingAccount/AccountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Account/test/testingAccount/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/controllers/LibraryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/controllers/LibraryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/data/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/data/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/data/model/Librarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/data/model/Librarian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/data/model/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/data/model/Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/data/model/Report.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/data/model/Report.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/data/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/data/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/data/repository/Books.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/data/repository/Books.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/data/repository/Librarians.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/data/repository/Librarians.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/data/repository/Readers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/data/repository/Readers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/data/repository/Reports.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/data/repository/Reports.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/requests/AddBookRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/requests/AddBookRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/requests/BorrowRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/requests/BorrowRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/requests/IssueRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/requests/IssueRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/requests/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/requests/LoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/requests/LogoutRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/requests/LogoutRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/requests/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/requests/RegisterRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/responses/AddBookResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/responses/AddBookResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/responses/ApiResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/responses/ApiResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/responses/LoginResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/responses/LoginResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/responses/LogoutResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/responses/LogoutResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/responses/RegisterResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/dtos/responses/RegisterResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/exceptions/AmazonAppException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/exceptions/AmazonAppException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/exceptions/IncorrectPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/exceptions/IncorrectPasswordException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/exceptions/IsbnExistsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/exceptions/IsbnExistsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/exceptions/NonExistentAuthorException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/exceptions/NonExistentAuthorException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/exceptions/NonExistentUserException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/exceptions/NonExistentUserException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/exceptions/NonExistingBookException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/exceptions/NonExistingBookException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/exceptions/ReaderLoginException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/exceptions/ReaderLoginException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/exceptions/ReservedBookException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/exceptions/ReservedBookException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/exceptions/UsernameExistsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/exceptions/UsernameExistsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/services/BookServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/services/BookServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/services/BookServicesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/services/BookServicesImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/services/LibrarianService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/services/LibrarianService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/services/LibrarianServicesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/services/LibrarianServicesImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/services/LibraryServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/services/LibraryServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/services/LibraryServicesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/services/LibraryServicesImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/services/ReaderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/services/ReaderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/services/ReaderServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/services/ReaderServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/utils/Mapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/java/africa/semicolon/Amazon/utils/Mapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/test/java/africa/semicolon/Amazon/controllers/LibraryControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/test/java/africa/semicolon/Amazon/controllers/LibraryControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/test/java/africa/semicolon/Amazon/services/LibraryServicesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/test/java/africa/semicolon/Amazon/services/LibraryServicesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/src/test/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/src/test/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/Array2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/ArrayReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/ArrayTotal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/CombineArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/ConcantenateArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/ElementInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/EvenPositionElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/FirstArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/LargestInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/OddPositionElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/StringPalindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/StudentPoll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/secondArrayDie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/AgeInDays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Arrange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/AverageAcceleration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Big.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/BodyIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/CarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/CheckerBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Christmas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Clock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/ClockTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Cole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Comparison.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Count.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/CountsOfZeroPositiveNegative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/EvenOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Exchange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/ExtractNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Fahrenheit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Giza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/GoGet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/HeadOrTail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/IncreasingOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Interest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Length.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Letter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Lottery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Mon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Money.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/MonthAndDays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/MonthsOfTheYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/NegativeZero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/NewTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Nokia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Nokia3310.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Numb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Numero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/PopulationCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/PowerOfNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Prime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Print.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/RockGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Semicolon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/SemicolonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Seperate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/SideTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/StudentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Time1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Time1Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/TrianglePerimeter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Vinci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Welcome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/You.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Zeller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/Zero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessments/ZeroPositive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Analysis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Asterisk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/AsteriskPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Comparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Compare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/CompareA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/CompareB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/CompareC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/CreditLimitCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Cryptography.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/DanglingElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/GasMileage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/LargestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Mystery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Mystery2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Mystery3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/SalesCommission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/SpecifiedSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Student1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/TableArrangement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/TwoLargest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/WorldPopulationGrowth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/CheckOut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/CreditCardValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/CreditCardValidatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/DecimalEquivalent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/Element1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/ElementTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/EvenPositions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/EvenPositionsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/Kata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/KataTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/Largest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/LargestTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/ListTotal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/ListTotalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/MBTI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/OddPosition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/OddPositions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/OddPositionsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/ReturnList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/ReturnListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/ReverseFunctionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/StudentGrade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/StudentGradeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/SumList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/SumListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/TaskZero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSnack/TaskZeroTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Menstrual Cycle Calculator/Menstrual Cycle Calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Menstrual Cycle Calculator/src/MenstrualFlowCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Menstrual Cycle Calculator/src/MenstrualFlowCalculator1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Menstrual Cycle Calculator/src/MenstrualFlowCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/AddforMultiplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/AddforMultiplicationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/AscendingArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/BirthYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/DescendingArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/MultiplicationTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/NaturalNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/TimesTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/reverseNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/AccountTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/CarApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/Clock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/ClockTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/Crap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/Craps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/HealthProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/HealthProfileTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/HeartRates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/HeartRatesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/Petrol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/PetrolPurchase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/Phonebook.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/apiguardian-api-1.1.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/apiguardian-api-1.1.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/apiguardian-api-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/junit-jupiter-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/junit-jupiter-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/junit-jupiter-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/junit-jupiter-api-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/junit-jupiter-api-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/junit-jupiter-api-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/junit-jupiter-engine-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/junit-jupiter-engine-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/junit-jupiter-engine-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/junit-jupiter-params-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/junit-jupiter-params-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/junit-jupiter-params-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/junit-platform-commons-1.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/junit-platform-commons-1.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/junit-platform-commons-1.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/junit-platform-engine-1.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/junit-platform-engine-1.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/junit-platform-engine-1.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/opentest4j-1.2.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/opentest4j-1.2.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/lib/opentest4j-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/out/production/Phonebook/PhoneBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/out/production/Phonebook/PhoneBook1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/out/production/Phonebook/PhoneBookMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/out/production/Phonebook/PhoneBookTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/phoneBook1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/src/PhoneBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/src/PhoneBook1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/src/PhoneBookMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phonebook/test/PhoneBookTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFive/AsteriskA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFive/AutoPolicy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFive/AutoPolicyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFive/BarChart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFive/DiamondPrint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFive/DiamondPrints.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFive/DiamondShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFive/FairTax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFive/GlobalWarmingQuiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFive/Interest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFive/ModifiedDiamond.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFive/NumberLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFive/PiTables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFive/Print.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFive/SideTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFive/StudentsGrade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFive/SumOfSeries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFive/ThreeDivisibles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fireDrillOne/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fireDrillOne/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/apiguardian-api-1.1.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/apiguardian-api-1.1.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/apiguardian-api-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/junit-jupiter-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/junit-jupiter-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/junit-jupiter-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/junit-jupiter-api-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/junit-jupiter-api-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/junit-jupiter-api-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/junit-jupiter-engine-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/junit-jupiter-engine-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/junit-jupiter-engine-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/junit-jupiter-params-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/junit-jupiter-params-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/junit-jupiter-params-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/junit-platform-commons-1.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/junit-platform-commons-1.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/junit-platform-commons-1.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/junit-platform-engine-1.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/junit-platform-engine-1.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/junit-platform-engine-1.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/opentest4j-1.2.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/opentest4j-1.2.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/lib/opentest4j-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/out/production/fireDrillOne/highestInArray/Min.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fireDrillOne/out/production/fireDrillOne/highestInArray/Min.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/AirConditioner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/ArbitraryAsterisk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/Bike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/FireDrillThree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/MyArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/Television.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fillArray/Array1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillOne/TaskEight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillOne/TaskFive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillOne/TaskFour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillOne/TaskNine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillOne/TaskOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillOne/TaskSeven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillOne/TaskSix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillOne/TaskThree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillOne/TaskTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillTwo/TaskEight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillTwo/TaskFive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillTwo/TaskFour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillTwo/TaskNine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillTwo/TaskOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillTwo/TaskSeven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillTwo/TaskSix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillTwo/TaskTen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillTwo/TaskThree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillTwo/TaskTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/mindfort/MyStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/AirCondtionerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/ArrayListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/BikeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/FireDrillThreeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/MySetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/MyStackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/TelevisionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/AgeInDays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/AirConditioner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/AirConditionerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/ArbitraryScores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Arrange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Asterisk1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/AverageAcceleration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Big.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/BodyIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Chapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Christmas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Cole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Comparison.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Count.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Dare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/DrawSmileyController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/EvenOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Exchange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/ExtractNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Extremes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Fahrenheit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/GeopoliticalZone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Giza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/GoGet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/HighestGrade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Interest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Interest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/ItemDiscount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/KataRanger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Length.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Letter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Mon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Money.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/MonthAndDays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/MonthsOfTheYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Multiplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/NegativeZero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Nokia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/NokiaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Numb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/NumberLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Numero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Pure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Random.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/RockGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Seperate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Student1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/StudentGrade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/TimesTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/TriangleLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Twos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Vinci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Welcome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/You.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/Zero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/ZeroPositive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/AgeInDays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Arrange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/AverageAcceleration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Big.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/BodyIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Cole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Comparison.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Count.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/EvenOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Exchange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/ExtractNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Fahrenheit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/GeoPoliticalZones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/GeoPoliticalZones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Giza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/GoGet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Interest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Interest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Length.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Letter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Mon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Money.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/MonthAndDays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/MonthsOfTheYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/NegativeZero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Numb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Numero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Pure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/RockGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Seperate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Vinci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Welcome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/You.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/Zero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/ZeroPositive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/calculator/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/calculator/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/calculator/Casio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/calculator/CasioTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/java_assesement/calculator/GeoLocatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java codes/number.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/java-exercises.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/apiguardian-api-1.1.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/apiguardian-api-1.1.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/apiguardian-api-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/hamcrest-core-1.3-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/hamcrest-core-1.3-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-4.13.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-4.13.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-4.13.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-jupiter-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-jupiter-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-jupiter-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-jupiter-api-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-jupiter-api-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-jupiter-api-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-jupiter-engine-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-jupiter-engine-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-jupiter-engine-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-jupiter-params-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-jupiter-params-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-jupiter-params-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-platform-commons-1.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-platform-commons-1.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-platform-commons-1.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-platform-engine-1.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-platform-engine-1.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/junit-platform-engine-1.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/opentest4j-1.2.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/opentest4j-1.2.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/lib/opentest4j-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/out/production/java-exercises/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/out/production/java-exercises/ThreeDivisibles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/out/production/java-exercises/myPackage/Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/out/test/java-exercises/PracticeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/out/test/java-exercises/ThreeDivisiblesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/src/ThreeDivisibles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/src/myPackage/Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/test/PracticeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/test/SumOfSeriesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercises/test/ThreeDivisiblesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/javaExcercises.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/apiguardian-api-1.1.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/apiguardian-api-1.1.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/apiguardian-api-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/junit-jupiter-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/junit-jupiter-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/junit-jupiter-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/junit-jupiter-api-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/junit-jupiter-api-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/junit-jupiter-api-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/junit-jupiter-engine-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/junit-jupiter-engine-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/junit-jupiter-engine-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/junit-jupiter-params-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/junit-jupiter-params-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/junit-jupiter-params-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/junit-platform-commons-1.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/junit-platform-commons-1.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/junit-platform-commons-1.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/junit-platform-engine-1.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/junit-platform-engine-1.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/junit-platform-engine-1.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/opentest4j-1.2.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/opentest4j-1.2.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/lib/opentest4j-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/out/production/javaExcercises/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/out/production/javaExcercises/mindfort/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/out/production/javaExcercises/mindfort/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/out/production/javaExcercises/mindfort/SavingsAccount1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/out/production/javaExcercises/mindfort/Time2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/out/production/javaExcercises/mindfort/Time2Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/out/test/javaExcercises/CylinderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/out/test/javaExcercises/PalindromeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/src/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/src/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/src/mindfort/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/src/mindfort/SavingsAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/src/mindfort/SavingsAccount1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/src/mindfort/Time2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/src/mindfort/Time2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/test/CylinderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/test/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaExcercises/test/PalindromeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/AgeInDays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Arrange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/AverageAcceleration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Big.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/BodyIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Chapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Cole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Comparison.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Count.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Counting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/DoWhileTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/EvenOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Exchange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Exhange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/ExtractNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Extremes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Fahrenheit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/GasMileage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Giza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/GoGet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/GradeAverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/HeadOrTail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Interest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Interest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/ItemDiscount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/KataRanger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Kj.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Length.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Letter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/LetterGrades.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Lottery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Mon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Money.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/MonthAndDays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/MonthsOfTheYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/NegativeZero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/NegativeZero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/NewTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Numb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/NumberLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Numero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/PopulationCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/PositiveNegativeSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Pure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Random.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/RockGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Seperate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Student1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Student1Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/StudentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Triangle1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Triangle1Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Twos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Vinci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Welcome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/You - Copy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/You.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Zeller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/Zero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my programs/ZeroPositive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/data/model/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/data/model/Note.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/data/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/data/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/data/repository/Notes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/data/repository/Notes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/data/repository/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/data/repository/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/request/AddNoteRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/request/AddNoteRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/request/DeleteNoteRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/request/DeleteNoteRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/request/DeleteUserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/request/DeleteUserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/request/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/request/LoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/request/LogoutRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/request/LogoutRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/request/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/request/RegisterRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/request/UpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/request/UpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/responses/AddNoteResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/responses/AddNoteResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/responses/ApiResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/responses/ApiResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/responses/LoginResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/responses/LoginResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/responses/RegisterResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/responses/RegisterResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/responses/UpdateResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/dtos/responses/UpdateResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/exceptions/IncorrectPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/exceptions/IncorrectPasswordException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/exceptions/InputMisMatchException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/exceptions/InputMisMatchException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/exceptions/LoginException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/exceptions/LoginException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/exceptions/NoteManagerException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/exceptions/NoteManagerException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/exceptions/NoteNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/exceptions/NoteNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/exceptions/TitleExistsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/exceptions/TitleExistsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/exceptions/UserNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/exceptions/UserNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/exceptions/UsernameExistsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/exceptions/UsernameExistsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/service/NoteServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/service/NoteServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/service/NoteServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/service/NoteServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/service/UserServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/service/UserServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/service/UserServicesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/service/UserServicesImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/utils/Mapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/java/africa/semicolon/notesforkeep/utils/Mapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/test/java/africa/semicolon/notesforkeep/data/repository/UsersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/test/java/africa/semicolon/notesforkeep/data/repository/UsersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/test/java/africa/semicolon/notesforkeep/service/NoteServicesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/test/java/africa/semicolon/notesforkeep/service/NoteServicesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/test/java/africa/semicolon/notesforkeep/service/UserServicesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/test/java/africa/semicolon/notesforkeep/service/UserServicesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesForKeep/src/test/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../notesForKeep/src/test/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesManager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../notesManager/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesManager/src/main/java/africa/semicolon/notesManager/data/repository/Notes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesManager/src/main/java/africa/semicolon/notesManager/data/repository/Notes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesManager/src/main/java/africa/semicolon/notesManager/data/repository/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesManager/src/main/java/africa/semicolon/notesManager/data/repository/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesManager/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../notesManager/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesManager/src/test/java/africa/semicolon/notesManager/data/repository/NotesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesManager/src/test/java/africa/semicolon/notesManager/data/repository/NotesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesManager/src/test/java/africa/semicolon/notesManager/data/repository/UsersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notesManager/src/test/java/africa/semicolon/notesManager/data/repository/UsersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notesManager/src/test/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../notesManager/src/test/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/AirLineReservationSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/AirLineReservationSystemTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/Booker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projectSpace" beforeDir="false" afterPath="$PROJECT_DIR$/../projectSpace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects" beforeDir="false" afterPath="$PROJECT_DIR$/../projects" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Victor-Maverick"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Victor-Maverick/Java.git",
+    "accountId": "81dbeee7-85ba-4aac-9729-41bf05118ba4"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2gbSsI9wOyAvXH16WxsUTRsr9zD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddd5c5cc-8dd3-490e-9bcd-6dc01fb8687a" name="Changes" comment="" />
+      <created>1715964989582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715964989582</updated>
+      <workItem from="1715964990649" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
