@@ -397,7 +397,7 @@
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/MySetTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/MyStackTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/TelevisionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Streams/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/Example4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/Account.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/AccountTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/AgeInDays.java" beforeDir="false" />
@@ -889,7 +889,7 @@
       <workItem from="1715984232588" duration="4696000" />
       <workItem from="1716039121564" duration="2129000" />
       <workItem from="1716215703916" duration="5306000" />
-      <workItem from="1716221129409" duration="913000" />
+      <workItem from="1716221129409" duration="1437000" />
     </task>
     <servers />
   </component>

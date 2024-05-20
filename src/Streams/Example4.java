@@ -21,5 +21,12 @@ public class Example4 {
                 .sorted()
                 .toList();
         System.out.println(result2);
+
+        List<Integer> numberList = List.of(4, 2, 2, 5, 2, 6,3,9, 10);
+        List<Integer> listResult = numberList.stream()
+                .distinct()
+                .sorted()
+                .toList();
+        System.out.println(listResult);
     }
 }
