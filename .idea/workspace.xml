@@ -12,7 +12,10 @@
       <change afterPath="$PROJECT_DIR$/../fireDrillOne/.idea/fireDrillOne.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fireDrillOne/src/maximumProduct/MaximumProduct.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fireDrillOne/test/maximumProduct/MaximumProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Transaction.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../practice/src/CalculateLcm.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../practice/src/EventHandling.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../practice/src/Form.html" afterDir="false" />
@@ -399,25 +402,6 @@
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/MyStackTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/TelevisionTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/biConsumer/BiConsumerSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/biConsumer/BiConsumerSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/biFunction/BiFunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/biFunction/BiFunctionSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/biPredicate/BiPredicateSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/biPredicate/BiPredicateSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binaryOperator/BinaryOperatorSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binaryOperator/BinaryOperatorSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/consumer/ConsumerSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/consumer/ConsumerSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/doubleBinaryOperator/DoubleBinaryOperatorSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doubleBinaryOperator/DoubleBinaryOperatorSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/doubleToIntFunction/DoubleToIntFunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doubleToIntFunction/DoubleToIntFunctionSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/doubleToLongFunction/DoubleToLongFunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doubleToLongFunction/DoubleToLongFunctionSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/function/FunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/FunctionSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intSupplier/IntSupplierSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intSupplier/IntSupplierSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intToDoubleFunction/IntToDoubleFunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intToDoubleFunction/IntToDoubleFunctionSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/longConsumer/LongConsumerSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longConsumer/LongConsumerSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/longSupplier/LongSupplierSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longSupplier/LongSupplierSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predicate/PredicateSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate/PredicateSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/supplier/SupplierSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/supplier/SupplierSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toDoubleFunction/ToDoubleFunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toDoubleFunction/ToDoubleFunctionSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toIntFunction/ToIntFunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toIntFunction/ToIntFunctionSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toLongBiFunction/ToLongBiFunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toLongBiFunction/ToLongBiFunctionSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unaryOperator/UnaryComparatorSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unaryOperator/UnaryComparatorSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/Account.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/AccountTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/AgeInDays.java" beforeDir="false" />
@@ -777,6 +761,9 @@
     "Application.DoubleToIntFunctionSample.executor": "Run",
     "Application.DoubleToLongFunctionSample.executor": "Run",
     "Application.Example1.executor": "Run",
+    "Application.Example2.executor": "Run",
+    "Application.Example3.executor": "Run",
+    "Application.Example4.executor": "Run",
     "Application.FunctionSample.executor": "Run",
     "Application.IntSupplierSample.executor": "Run",
     "Application.IntToDoubleFunctionSample.executor": "Run",
@@ -800,9 +787,48 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Example1">
+  <component name="RunManager" selected="Application.Example4">
     <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Streams.Example1" />
+      <module name="functionalInterfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.Example2" />
+      <module name="functionalInterfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.Example3" />
+      <module name="functionalInterfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.Example4" />
       <module name="functionalInterfaces" />
       <extension name="coverage">
         <pattern>
@@ -827,52 +853,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongConsumerSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="longConsumer.LongConsumerSample" />
-      <module name="functionalInterfaces" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="longConsumer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongSupplierSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="longSupplier.LongSupplierSample" />
-      <module name="functionalInterfaces" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="longSupplier.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ToDoubleFunctionSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="toDoubleFunction.ToDoubleFunctionSample" />
-      <module name="functionalInterfaces" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="toDoubleFunction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.Example2" />
         <item itemvalue="Application.Example1" />
         <item itemvalue="Application.IntSupplierSample" />
-        <item itemvalue="Application.LongConsumerSample" />
-        <item itemvalue="Application.LongSupplierSample" />
-        <item itemvalue="Application.ToDoubleFunctionSample" />
       </list>
     </recent_temporary>
   </component>
@@ -902,7 +889,7 @@
       <workItem from="1715980673676" duration="3472000" />
       <workItem from="1715984232588" duration="4696000" />
       <workItem from="1716039121564" duration="2129000" />
-      <workItem from="1716215703916" duration="1352000" />
+      <workItem from="1716215703916" duration="4465000" />
     </task>
     <servers />
   </component>
