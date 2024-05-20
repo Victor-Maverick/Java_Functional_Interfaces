@@ -397,7 +397,7 @@
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/MySetTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/MyStackTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/TelevisionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Streams/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/Example4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/Account.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/AccountTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/AgeInDays.java" beforeDir="false" />
@@ -749,43 +749,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BiConsumerSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BiFunctionSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BiPredicateSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinaryOperatorSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConsumeSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoubleBinaryOperatorSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoubleToIntFunctionSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoubleToLongFunctionSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FunctionSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IntSupplierSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IntToDoubleFunctionSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongConsumerSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongSupplierSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PredicateSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SupplierSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ToDoubleFunctionSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ToIntFunctionSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ToLongBiFunctionSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnaryComparatorSample.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BiConsumerSample.executor": "Run",
+    "Application.BiFunctionSample.executor": "Run",
+    "Application.BiPredicateSample.executor": "Run",
+    "Application.BinaryOperatorSample.executor": "Run",
+    "Application.ConsumeSample.executor": "Run",
+    "Application.DoubleBinaryOperatorSample.executor": "Run",
+    "Application.DoubleToIntFunctionSample.executor": "Run",
+    "Application.DoubleToLongFunctionSample.executor": "Run",
+    "Application.Example1.executor": "Run",
+    "Application.Example2.executor": "Run",
+    "Application.Example3.executor": "Run",
+    "Application.Example4.executor": "Run",
+    "Application.FunctionSample.executor": "Run",
+    "Application.IntSupplierSample.executor": "Run",
+    "Application.IntToDoubleFunctionSample.executor": "Run",
+    "Application.LongConsumerSample.executor": "Run",
+    "Application.LongSupplierSample.executor": "Run",
+    "Application.PredicateSample.executor": "Run",
+    "Application.SupplierSample.executor": "Run",
+    "Application.ToDoubleFunctionSample.executor": "Run",
+    "Application.ToIntFunctionSample.executor": "Run",
+    "Application.ToLongBiFunctionSample.executor": "Run",
+    "Application.UnaryComparatorSample.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Example4">
     <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Streams.Example1" />
@@ -889,7 +890,7 @@
       <workItem from="1715984232588" duration="4696000" />
       <workItem from="1716039121564" duration="2129000" />
       <workItem from="1716215703916" duration="5306000" />
-      <workItem from="1716221129409" duration="1437000" />
+      <workItem from="1716221129409" duration="1937000" />
     </task>
     <servers />
   </component>
