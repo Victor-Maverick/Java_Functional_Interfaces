@@ -12,10 +12,6 @@
       <change afterPath="$PROJECT_DIR$/../fireDrillOne/.idea/fireDrillOne.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fireDrillOne/src/maximumProduct/MaximumProduct.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fireDrillOne/test/maximumProduct/MaximumProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Transaction.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../practice/src/CalculateLcm.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../practice/src/EventHandling.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../practice/src/Form.html" afterDir="false" />
@@ -402,6 +398,7 @@
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/MyStackTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/TelevisionTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Streams/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/Example4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/Account.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/AccountTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/AgeInDays.java" beforeDir="false" />
@@ -741,6 +738,9 @@
     &quot;accountId&quot;: &quot;81dbeee7-85ba-4aac-9729-41bf05118ba4&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/util/function/LongSupplier.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -889,7 +889,7 @@
       <workItem from="1715980673676" duration="3472000" />
       <workItem from="1715984232588" duration="4696000" />
       <workItem from="1716039121564" duration="2129000" />
-      <workItem from="1716215703916" duration="4465000" />
+      <workItem from="1716215703916" duration="5306000" />
     </task>
     <servers />
   </component>

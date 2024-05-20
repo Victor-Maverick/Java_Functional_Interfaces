@@ -1,5 +1,6 @@
 package Streams;
 
+import java.util.List;
 import java.util.stream.IntStream;
 
 public class Example4 {
@@ -10,5 +11,10 @@ public class Example4 {
                 .filter((number)->number>100)
                 .map(number->number*number)
                 .forEach(System.out::println);
+
+        List<Integer> numbers = List.of(1,2,3,4,5,6,7,8,9,10);
+        int result = numbers.stream()
+                .reduce(0, Integer::sum);
+        System.out.println(result);
     }
 }
