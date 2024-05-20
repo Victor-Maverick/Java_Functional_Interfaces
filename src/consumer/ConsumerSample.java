@@ -2,7 +2,7 @@ package consumer;
 
 import java.util.function.Consumer;
 
-public class ConsumeSample {
+public class ConsumerSample {
     public static void main(String[] args) {
         Consumer<Integer> consumer = System.out::println;
         consumer.accept(176);

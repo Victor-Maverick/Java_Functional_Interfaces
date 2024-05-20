@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ddd5c5cc-8dd3-490e-9bcd-6dc01fb8687a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assessment/Assessment.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NewProject/mailService/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NewProject/taskManagementSystem/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NewProject/userService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fireDrillOne/.idea/fireDrillOne.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fireDrillOne/src/maximumProduct/MaximumProduct.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fireDrillOne/test/maximumProduct/MaximumProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Example1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../practice/src/CalculateLcm.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../practice/src/EventHandling.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../practice/src/Form.html" afterDir="false" />
@@ -392,6 +398,26 @@
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/MySetTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/MyStackTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/TelevisionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/biConsumer/BiConsumerSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/biConsumer/BiConsumerSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/biFunction/BiFunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/biFunction/BiFunctionSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/biPredicate/BiPredicateSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/biPredicate/BiPredicateSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binaryOperator/BinaryOperatorSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binaryOperator/BinaryOperatorSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/consumer/ConsumerSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/consumer/ConsumerSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doubleBinaryOperator/DoubleBinaryOperatorSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doubleBinaryOperator/DoubleBinaryOperatorSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doubleToIntFunction/DoubleToIntFunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doubleToIntFunction/DoubleToIntFunctionSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doubleToLongFunction/DoubleToLongFunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doubleToLongFunction/DoubleToLongFunctionSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/function/FunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/FunctionSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intSupplier/IntSupplierSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intSupplier/IntSupplierSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intToDoubleFunction/IntToDoubleFunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intToDoubleFunction/IntToDoubleFunctionSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/longConsumer/LongConsumerSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longConsumer/LongConsumerSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/longSupplier/LongSupplierSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longSupplier/LongSupplierSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predicate/PredicateSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate/PredicateSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/supplier/SupplierSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/supplier/SupplierSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/toDoubleFunction/ToDoubleFunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toDoubleFunction/ToDoubleFunctionSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/toIntFunction/ToIntFunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toIntFunction/ToIntFunctionSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/toLongBiFunction/ToLongBiFunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toLongBiFunction/ToLongBiFunctionSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unaryOperator/UnaryComparatorSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unaryOperator/UnaryComparatorSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/Account.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/AccountTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/AgeInDays.java" beforeDir="false" />
@@ -709,24 +735,31 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Victor-Maverick"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Victor-Maverick&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Victor-Maverick/Java.git",
-    "accountId": "81dbeee7-85ba-4aac-9729-41bf05118ba4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Victor-Maverick/Java.git&quot;,
+    &quot;accountId&quot;: &quot;81dbeee7-85ba-4aac-9729-41bf05118ba4&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2gbSsI9wOyAvXH16WxsUTRsr9zD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -735,13 +768,114 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BiConsumerSample.executor": "Run",
+    "Application.BiFunctionSample.executor": "Run",
+    "Application.BiPredicateSample.executor": "Run",
+    "Application.BinaryOperatorSample.executor": "Run",
+    "Application.ConsumeSample.executor": "Run",
+    "Application.DoubleBinaryOperatorSample.executor": "Run",
+    "Application.DoubleToIntFunctionSample.executor": "Run",
+    "Application.DoubleToLongFunctionSample.executor": "Run",
+    "Application.Example1.executor": "Run",
+    "Application.FunctionSample.executor": "Run",
+    "Application.IntSupplierSample.executor": "Run",
+    "Application.IntToDoubleFunctionSample.executor": "Run",
+    "Application.LongConsumerSample.executor": "Run",
+    "Application.LongSupplierSample.executor": "Run",
+    "Application.PredicateSample.executor": "Run",
+    "Application.SupplierSample.executor": "Run",
+    "Application.ToDoubleFunctionSample.executor": "Run",
+    "Application.ToIntFunctionSample.executor": "Run",
+    "Application.ToLongBiFunctionSample.executor": "Run",
+    "Application.UnaryComparatorSample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Example1">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.Example1" />
+      <module name="functionalInterfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntSupplierSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intSupplier.IntSupplierSample" />
+      <module name="functionalInterfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intSupplier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongConsumerSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="longConsumer.LongConsumerSample" />
+      <module name="functionalInterfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="longConsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongSupplierSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="longSupplier.LongSupplierSample" />
+      <module name="functionalInterfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="longSupplier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToDoubleFunctionSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toDoubleFunction.ToDoubleFunctionSample" />
+      <module name="functionalInterfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="toDoubleFunction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example1" />
+        <item itemvalue="Application.IntSupplierSample" />
+        <item itemvalue="Application.LongConsumerSample" />
+        <item itemvalue="Application.LongSupplierSample" />
+        <item itemvalue="Application.ToDoubleFunctionSample" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -758,7 +892,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715964989582</updated>
-      <workItem from="1715964990649" duration="5000" />
+      <workItem from="1715964990649" duration="1014000" />
+      <workItem from="1715966229931" duration="732000" />
+      <workItem from="1715967903818" duration="243000" />
+      <workItem from="1715968171682" duration="60000" />
+      <workItem from="1715968245603" duration="1128000" />
+      <workItem from="1715969400012" duration="3123000" />
+      <workItem from="1715980638072" duration="6000" />
+      <workItem from="1715980673676" duration="3472000" />
+      <workItem from="1715984232588" duration="4696000" />
+      <workItem from="1716039121564" duration="2129000" />
+      <workItem from="1716215703916" duration="1352000" />
     </task>
     <servers />
   </component>
