@@ -16,5 +16,10 @@ public class Example4 {
         int result = numbers.stream()
                 .reduce(0, Integer::sum);
         System.out.println(result);
+
+        List<Integer> result2 = numbers.stream()
+                .sorted()
+                .toList();
+        System.out.println(result2);
     }
 }
