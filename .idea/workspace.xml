@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddd5c5cc-8dd3-490e-9bcd-6dc01fb8687a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Streams/FlattMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/FlattMap2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/StreamOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/StreamOperationsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Account/Account.iml" beforeDir="false" />
@@ -339,6 +341,7 @@
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/TelevisionTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/maximumProduct/MaximumProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fireDrillOne/test/maximumProduct/MaximumProductTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Streams/FlattMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/FlattMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/Account.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/AccountTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/AgeInDays.java" beforeDir="false" />
@@ -665,6 +668,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -710,6 +714,7 @@
     "Application.Example3.executor": "Run",
     "Application.Example4.executor": "Run",
     "Application.FlattMap.executor": "Run",
+    "Application.FlattMap2.executor": "Run",
     "Application.FunctionSample.executor": "Run",
     "Application.IntSupplierSample.executor": "Run",
     "Application.IntToDoubleFunctionSample.executor": "Run",
@@ -721,8 +726,15 @@
     "Application.ToIntFunctionSample.executor": "Run",
     "Application.ToLongBiFunctionSample.executor": "Run",
     "Application.UnaryComparatorSample.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -734,33 +746,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FlattMap">
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Example1" />
-      <module name="functionalInterfaces" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Example2" />
-      <module name="functionalInterfaces" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Streams" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StreamOperationsTest.testGetEvenNumbers">
     <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Streams.Example3" />
       <module name="functionalInterfaces" />
@@ -800,13 +794,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FlattMap2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.FlattMap2" />
+      <module name="functionalInterfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamOperationsTest.testGetEvenNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="functionalInterfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Streams" />
+      <option name="MAIN_CLASS_NAME" value="Streams.StreamOperationsTest" />
+      <option name="METHOD_NAME" value="testGetEvenNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StreamOperationsTest.testGetEvenNumbers" />
+        <item itemvalue="Application.FlattMap2" />
         <item itemvalue="Application.FlattMap" />
         <item itemvalue="Application.Example4" />
         <item itemvalue="Application.Example3" />
-        <item itemvalue="Application.Example2" />
-        <item itemvalue="Application.Example1" />
       </list>
     </recent_temporary>
   </component>
@@ -839,7 +862,7 @@
       <workItem from="1716215703916" duration="5306000" />
       <workItem from="1716221129409" duration="2215000" />
       <workItem from="1716257583680" duration="137000" />
-      <workItem from="1716284279430" duration="576000" />
+      <workItem from="1716284279430" duration="3501000" />
     </task>
     <servers />
   </component>

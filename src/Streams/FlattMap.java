@@ -1,6 +1,7 @@
 package Streams;
 
 import java.util.List;
+import java.util.stream.Stream;
 
 public class FlattMap {
     public static void main(String[] args) {
@@ -11,6 +12,13 @@ public class FlattMap {
         );
         System.out.println(lists.stream()
                 .flatMap(list -> list.stream())
+                .toList());
+        List<String> stringList = List.of(
+                "ABC", "HELLO", "Hey"
+        );
+        System.out.println(stringList.stream()
+                .flatMap((element) ->
+                        Stream.of(new StringBuilder(element).reverse()))
                 .toList());
     }
 }
