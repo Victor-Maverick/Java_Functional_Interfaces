@@ -5,72 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddd5c5cc-8dd3-490e-9bcd-6dc01fb8687a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Assessment/Assessment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewProject/mailService/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewProject/taskManagementSystem/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewProject/userService/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fireDrillOne/.idea/fireDrillOne.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fireDrillOne/src/maximumProduct/MaximumProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fireDrillOne/test/maximumProduct/MaximumProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/src/CalculateLcm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/src/EventHandling.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/src/Form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/src/jSpractice.index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter14/DataValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter14/NewExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter14/Plus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/GeneratePassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/SentenceReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/files/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/files/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/files/ScannerText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/files/WebScraper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/files/newFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/files/sample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/AppendToExisting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/BufferedWriter1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/CharacterBased.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/DataInputStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/FileOutputStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/JavaNioPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/OutputRedirect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/ReadFromTerminal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/Stream1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter15/streams/StreamBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter16/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter16/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter16/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter16/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter16/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter16/PersonComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter16/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter16/TransactionComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/ConsumerSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/biConsumer/BiConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/biFunction/BiFunctionSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/biPredicate/BiPredicateSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/binaryOperator/BinaryOperatorSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/doubleToIntFunction/DoubleToIntFunctionSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/function/FunctionSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/longUnaryOperator/LongUnaryOperatorSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/predicate/PredicateSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/supplier/SupplierSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/functionalInterface/unaryOperator/UnaryOperatorSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/streams/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/chapter17/streams/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/json/serialization/JsonSerializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/json/serialization/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/json/serialization/Sex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/transactions/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/transactions/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/transactions/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/transactions/transactions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/test/java/chapter14/DataValidatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/test/java/chapter14/PlusTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/test/java/chapter15/SentenceReverseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/test/java/json/serialization/JsonSerializerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/FlattMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Account/Account.iml" beforeDir="false" />
@@ -134,6 +69,7 @@
       <change beforePath="$PROJECT_DIR$/../Arrays/StringPalindrome.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Arrays/StudentPoll.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Arrays/secondArrayDie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessment/chapterFour/GasMileage.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assessments/Account.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assessments/AccountTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assessments/AgeInDays.java" beforeDir="false" />
@@ -282,6 +218,9 @@
       <change beforePath="$PROJECT_DIR$/../New folder/HeartRatesTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../New folder/Petrol.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../New folder/PetrolPurchase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewProject/mailService/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewProject/taskManagementSystem/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewProject/userService/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Phonebook/Phonebook.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Phonebook/lib/apiguardian-api-1.1.2-javadoc.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Phonebook/lib/apiguardian-api-1.1.2-sources.jar" beforeDir="false" />
@@ -389,6 +328,7 @@
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillTwo/TaskTen.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillTwo/TaskThree.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/fireDrillTwo/TaskTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/maximumProduct/MaximumProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fireDrillOne/src/maximumProduct/MaximumProduct.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/src/mindfort/MyStack.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/AirCondtionerTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/ArrayListTest.java" beforeDir="false" />
@@ -397,6 +337,7 @@
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/MySetTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/MyStackTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/TelevisionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fireDrillOne/test/maximumProduct/MaximumProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fireDrillOne/test/maximumProduct/MaximumProductTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/Account.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java codes/AccountTest.java" beforeDir="false" />
@@ -707,8 +648,13 @@
       <change beforePath="$PROJECT_DIR$/../practice/src/AirLineReservationSystem.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../practice/src/AirLineReservationSystemTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../practice/src/Booker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/CalculateLcm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/src/CalculateLcm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/EventHandling.html" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/src/EventHandling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/Form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/src/Form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/jSpractice.index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/src/jSpractice.index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../projectSpace" beforeDir="false" afterPath="$PROJECT_DIR$/../projectSpace" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../projects" beforeDir="false" afterPath="$PROJECT_DIR$/../projects" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -763,6 +709,7 @@
     "Application.Example2.executor": "Run",
     "Application.Example3.executor": "Run",
     "Application.Example4.executor": "Run",
+    "Application.FlattMap.executor": "Run",
     "Application.FunctionSample.executor": "Run",
     "Application.IntSupplierSample.executor": "Run",
     "Application.IntToDoubleFunctionSample.executor": "Run",
@@ -787,7 +734,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Example4">
+  <component name="RunManager" selected="Application.FlattMap">
     <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Streams.Example1" />
       <module name="functionalInterfaces" />
@@ -840,12 +787,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntSupplierSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intSupplier.IntSupplierSample" />
+    <configuration name="FlattMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.FlattMap" />
       <module name="functionalInterfaces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intSupplier.*" />
+          <option name="PATTERN" value="Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -855,11 +802,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlattMap" />
         <item itemvalue="Application.Example4" />
         <item itemvalue="Application.Example3" />
         <item itemvalue="Application.Example2" />
         <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.IntSupplierSample" />
       </list>
     </recent_temporary>
   </component>
@@ -890,7 +837,9 @@
       <workItem from="1715984232588" duration="4696000" />
       <workItem from="1716039121564" duration="2129000" />
       <workItem from="1716215703916" duration="5306000" />
-      <workItem from="1716221129409" duration="1937000" />
+      <workItem from="1716221129409" duration="2215000" />
+      <workItem from="1716257583680" duration="137000" />
+      <workItem from="1716284279430" duration="576000" />
     </task>
     <servers />
   </component>
